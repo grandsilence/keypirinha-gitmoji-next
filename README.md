@@ -2,7 +2,9 @@
   <img src="src/gitmoji.ico" width="100" height="100" />
 </p>
 
-# Keypirinha Plugin: gitmoji
+# Keypirinha Plugin: gitmoji next
+
+> Fork of [original gitmoji package](https://github.com/Fuhrmann/keypirinha-gitmoji) with `gitmoji.json` update fix and new High DPI icon assets from [original Segoe UI Emoji font](https://github.com/notopsee/Microsoft-Segoe-UI-Emoji-SVG-Icons).
 
 This is gitmoji, a plugin for the
 [Keypirinha](http://keypirinha.com) launcher.
@@ -40,6 +42,10 @@ Open Keypirinha and type 'gitmoji'. Once the suggestion appears press TAB or ENT
 
 
 ## Change Log
+
+### v1.2
+* Fixed `gitmoji.json` update from original Gitmoji repository
+* New High DPI icon assets from [original Segoe UI Emoji font](https://github.com/notopsee/Microsoft-Segoe-UI-Emoji-SVG-Icons)
 
 ### v1.1
 * Updated the list of icon images
