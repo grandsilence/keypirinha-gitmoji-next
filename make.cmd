@@ -1,7 +1,7 @@
 @echo off
 setlocal
 
-set PACKAGE_NAME=Gitmoji
+set PACKAGE_NAME=GitmojiNext
 set INSTALL_DIR=%APPDATA%\Keypirinha\InstalledPackages
 
 if "%1"=="" goto help
